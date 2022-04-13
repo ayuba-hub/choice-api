@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000'
+    'http://localhost:3000','https://evening-hamlet-46098.herokuapp.com/proposal','http://evening-hamlet-46098.herokuapp.com/proposal'
 ]
 
 import dj_database_url
